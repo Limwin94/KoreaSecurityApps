@@ -206,7 +206,7 @@ IPinside agent는 substring으로도 매칭을 한다.
 심지어 약한 키(weak key)가 사용되는 것도 아니다.
 320비트의 키 이야기이다.
 첫 RSA 소인수분해 챌린지 (RSA Factoring Challenge)에서 사용되었던 첫 키보다도 길이가 짧다.
-그 챌랠지는 [1991년 4월에](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge#The_prizes_and_records) 있었던 챌린지로 30년 전 이야기이다.
+그 챌린지는 [1991년 4월에](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge#The_prizes_and_records) 있었던 챌린지로 30년 전 이야기이다.
 제대로 된 RSA 라이브러리라면 이렇게 짧은 키로 동작조차하지 않는다. 
 
 
